@@ -1,0 +1,71 @@
+{
+  "app": {
+    "name": "Prime Player",
+    "version": "1.2.0",
+    "build": 120,
+    "developer": "Digital Apps",
+    "description": {
+      "pt": "Player IPTV moderno e rápido.",
+      "en": "Modern and fast IPTV player.",
+      "es": "Reproductor IPTV moderno y rápido."
+    },
+    "logo": "https://seusite.com/logo.png"
+  },
+  "links": {
+    "telegram": "https://t.me/primeplayer",
+    "website": "https://seusite.com",
+    "support": "https://t.me/suporte",
+    "donation": "https://livepix.gg/seu-usuario"
+  },
+  "about": {
+    "title": {
+      "pt": "Sobre o Prime Player",
+      "en": "About Prime Player",
+      "es": "Acerca de Prime Player"
+    },
+    "message": {
+      "pt": "Obrigado por utilizar nosso aplicativo. Continuamos trabalhando para trazer novas funções e melhorias.",
+      "en": "Thank you for using our app. We keep working to bring new features and improvements.",
+      "es": "Gracias por utilizar nuestra aplicación. Seguimos trabajando para traer nuevas funciones y mejoras."
+    },
+    "donation_button": {
+      "pt": "💖 Apoiar o projeto",
+      "en": "💖 Support the project",
+      "es": "💖 Apoyar el proyecto"
+    }
+  },
+  "supporters": [
+    {
+      "name": "João Silva",
+      "level": { "pt": "Premium", "en": "Premium", "es": "Premium" }
+    },
+    {
+      "name": "Maria Souza",
+      "level": { "pt": "Apoiador", "en": "Supporter", "es": "Patrocinador" }
+    },
+    {
+      "name": "Carlos Santos",
+      "level": { "pt": "VIP", "en": "VIP", "es": "VIP" }
+    }
+  ],
+  "changelog": {
+    "pt": [
+      "Correções de bugs",
+      "Melhorias de desempenho",
+      "Suporte a EPG",
+      "Nova sincronização de listas"
+    ],
+    "en": [
+      "Bug fixes",
+      "Performance improvements",
+      "EPG support",
+      "New list synchronization"
+    ],
+    "es": [
+      "Corrección de errores",
+      "Mejoras de rendimiento",
+      "Soporte de EPG",
+      "Nueva sincronización de listas"
+    ]
+  }
+}
