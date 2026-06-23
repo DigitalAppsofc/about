@@ -1,71 +1,74 @@
 {
-  "app": {
-    "name": "Prime Player",
-    "version": "1.2.0",
-    "build": 120,
-    "developer": "Digital Apps",
-    "description": {
-      "pt": "Player IPTV moderno e rápido.",
-      "en": "Modern and fast IPTV player.",
-      "es": "Reproductor IPTV moderno y rápido."
-    },
-    "logo": "https://seusite.com/logo.png"
-  },
-  "links": {
-    "telegram": "https://t.me/primeplayer",
-    "website": "https://seusite.com",
-    "support": "https://t.me/suporte",
-    "donation": "https://livepix.gg/seu-usuario"
-  },
-  "about": {
-    "title": {
-      "pt": "Sobre o Prime Player",
-      "en": "About Prime Player",
-      "es": "Acerca de Prime Player"
-    },
-    "message": {
-      "pt": "Obrigado por utilizar nosso aplicativo. Continuamos trabalhando para trazer novas funções e melhorias.",
-      "en": "Thank you for using our app. We keep working to bring new features and improvements.",
-      "es": "Gracias por utilizar nuestra aplicación. Seguimos trabajando para traer nuevas funciones y mejoras."
-    },
-    "donation_button": {
-      "pt": "💖 Apoiar o projeto",
-      "en": "💖 Support the project",
-      "es": "💖 Apoyar el proyecto"
-    }
-  },
-  "supporters": [
-    {
-      "name": "João Silva",
-      "level": { "pt": "Premium", "en": "Premium", "es": "Premium" }
-    },
-    {
-      "name": "Maria Souza",
-      "level": { "pt": "Apoiador", "en": "Supporter", "es": "Patrocinador" }
-    },
-    {
-      "name": "Carlos Santos",
-      "level": { "pt": "VIP", "en": "VIP", "es": "VIP" }
-    }
-  ],
-  "changelog": {
-    "pt": [
-      "Correções de bugs",
-      "Melhorias de desempenho",
-      "Suporte a EPG",
-      "Nova sincronização de listas"
-    ],
-    "en": [
-      "Bug fixes",
-      "Performance improvements",
-      "EPG support",
-      "New list synchronization"
-    ],
-    "es": [
-      "Corrección de errores",
-      "Mejoras de rendimiento",
-      "Soporte de EPG",
-      "Nueva sincronización de listas"
-    ]
-  }
+"app": {
+"name": "Prime Player",
+"version": "1.3",
+"build": 3,
+"developer": "Digital Apps",
+"logo": "https://i.ibb.co/gMKsZNs2/icon-1781711315623.png",
+"description": {
+"pt": "O Prime Player é um player IPTV moderno, rápido e intuitivo, desenvolvido para proporcionar a melhor experiência de entretenimento. Compatível com smartphones, Android TV e TV Box, oferece reprodução estável, organização inteligente de conteúdos, controle parental avançado, suporte a múltiplos idiomas e recursos premium.",
+"en": "Prime Player is a modern, fast and intuitive IPTV player designed to provide the best entertainment experience. Compatible with smartphones, Android TV and TV Boxes, it offers stable playback, smart content organization, advanced parental controls, multilingual support and premium features.",
+"es": "Prime Player es un reproductor IPTV moderno, rápido e intuitivo diseñado para brindar la mejor experiencia de entretenimiento. Compatible con smartphones, Android TV y TV Box, ofrece reproducción estable, organización inteligente de contenido, control parental avanzado, soporte multilingüe y funciones premium."
+}
+},
+
+"links": {
+"telegram": "https://t.me/primeplayer",
+"support": "https://t.me/suporte",
+"livepix": "https://livepix.gg/digitalapps"
+},
+
+"about": {
+"title": {
+"pt": "Sobre o Prime Player",
+"en": "About Prime Player",
+"es": "Acerca de Prime Player"
+},
+
+"message": {
+  "pt": "Obrigado por utilizar o Prime Player. Continuamos trabalhando para trazer novos recursos e melhorias.",
+  "en": "Thank you for using Prime Player. We continue working to bring new features and improvements.",
+  "es": "Gracias por utilizar Prime Player. Seguimos trabajando para traer nuevas funciones y mejoras."
+},
+
+"donation_button": {
+  "pt": "💖 Digital Apps = Dev",
+  "en": "💖 Digital Apps = Dev",
+  "es": "💖 Digital Apps = Dev"
+}
+
+},
+
+"changelog": {
+"pt": [
+"Correção de bugs",
+"Opção de Histórico",
+"Opção de DNS",
+"Melhorias no Controle Parental",
+"Funções Premium",
+"Suporte a 3 idiomas (PT/EN/ES)",
+"Melhorias para Android TV e TV Box"
+],
+
+"en": [
+  "Bug fixes",
+  "History option",
+  "DNS option",
+  "Parental Control improvements",
+  "Premium features",
+  "Support for 3 languages (PT/EN/ES)",
+  "Android TV and TV Box improvements"
+],
+
+"es": [
+  "Corrección de errores",
+  "Opción de Historial",
+  "Opción de DNS",
+  "Mejoras en el Control Parental",
+  "Funciones Premium",
+  "Soporte para 3 idiomas (PT/EN/ES)",
+  "Mejoras para Android TV y TV Box"
+]
+
+}
 }
