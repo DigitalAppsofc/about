@@ -1,0 +1,26 @@
+{
+"vip": {
+"enabled": true,
+
+"codes": [
+  {
+    "code": "VIP2026",
+    "active": true,
+    "authorized_devices": [
+      "ANDROID_ID_123456",
+      "ANDROID_ID_987654",
+      "ANDROID_ID_ABCDEF"
+    ]
+  },
+  {
+    "code": "PREMIUM30",
+    "active": true,
+    "authorized_devices": [
+      "ANDROID_ID_XYZ123",
+      "ANDROID_ID_TEST456"
+    ]
+  }
+]
+
+}
+}
