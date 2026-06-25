@@ -16,7 +16,7 @@
     "code": "PREMIUM30",
     "active": true,
     "authorized_devices": [
-      "ANDROID_ID_XYZ123",
+      "98c6c6975d349bbf",
       "ANDROID_ID_TEST456"
     ]
   }
