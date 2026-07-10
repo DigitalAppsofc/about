@@ -13,9 +13,9 @@
         ]
       },
       {
-        "code": "TESTE15",
+        "code": "TESTE7",
         "active": true,
-        "expires_at": "2026-07-24T23:59:59Z",
+        "expires_at": "2026-07-17T23:59:59Z",
         "days": "5",
         "authorized_devices": []
       },
