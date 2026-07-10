@@ -1,34 +1,32 @@
 {
-"vip": {
-"enabled": true,
-
-"codes": [
-  {
-    "code": "VIP2026",
-    "active": true,
-    "authorized_devices": [
-      "6211229a5b90c8d9",
-      "eff407f96bb39f2d",
-      "d0c26b5f9688dfb7",
-      "e5a56829474cee0e"
-    ]
-  },
-  {
+  "vip": {
+    "enabled": true,
+    "codes": [
+      {
+        "code": "VIP2026",
+        "active": true,
+        "authorized_devices": [
+          "6211229a5b90c8d9",
+          "eff407f96bb39f2d",
+          "d0c26b5f9688dfb7",
+          "e5a56829474cee0e"
+        ]
+      },
+      {
         "code": "TESTE15",
         "active": true,
         "expires_at": "2026-07-24T23:59:59Z",
-        "days": "5"
+        "days": "5",
         "authorized_devices": []
       },
-  {
-    "code": "PREMIUM30",
-    "active": true,
-    "authorized_devices": [
-      "98c6c6975d349bbf",
-      "f2ea48a914fa33a1"
+      {
+        "code": "PREMIUM30",
+        "active": true,
+        "authorized_devices": [
+          "98c6c6975d349bbf",
+          "f2ea48a914fa33a1"
+        ]
+      }
     ]
   }
-]
-
-}
 }
