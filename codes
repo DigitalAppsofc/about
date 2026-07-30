@@ -17,7 +17,7 @@
       {
         "code": "TESTE7",
         "active": true,
-        "expires_at": "2026-07-17T23:59:59Z",
+        "expires_at": "2026-08-17T23:59:59Z",
         "days": "7",
         "authorized_devices": []
       },
